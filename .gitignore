@@ -1,0 +1,15 @@
+# Created by https://www.gitignore.io/api/sublime,linux,mac
+
+#!! ERROR: sublime is undefined. Use list command to see defined gitignore types !!#
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
+#!! ERROR: mac is undefined. Use list command to see defined gitignore types !!#
